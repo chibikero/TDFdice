@@ -1,0 +1,6 @@
+{
+  "name": "Random Dice Clone",
+  "description": "A web-based tower defense game inspired by Random Dice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
